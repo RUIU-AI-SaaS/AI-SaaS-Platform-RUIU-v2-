@@ -155,7 +155,6 @@ conversational_agent_executor = RunnableWithMessageHistory(
 )
 
 def pharmacist_assistant(prompt):
-    print('prompt------------->', prompt)
     query = prompt
     result = conversational_agent_executor.invoke(
         {
@@ -163,4 +162,5 @@ def pharmacist_assistant(prompt):
         },
         {"configurable": {"session_id": "unused"}},
     )
+    print('prompt------------->', prompt)
     return result['output']
