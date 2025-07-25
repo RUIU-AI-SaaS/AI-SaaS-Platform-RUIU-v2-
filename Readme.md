@@ -26,3 +26,14 @@ Voiceflow
 RAG
 NLP
 ```
+
+## Videos
+```
+Blog content generate, Image & Video generate, Voice agent
+```
+https://drive.google.com/file/d/1IMWNOTGD1eDDZzoREnq3SKeZGqjFOV-h/view
+
+```
+Voice agent
+```
+https://drive.google.com/file/d/1QwdzqxKIEzlxbDfCbc3aJXhi0QnHYa_t/view
